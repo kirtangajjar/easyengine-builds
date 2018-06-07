@@ -1,5 +1,0 @@
-[07-06-2018 13:53:05] ee4.INFO: ::::::::::::::::::::::::ee4 invoked::::::::::::::::::::::::  
-[07-06-2018 13:53:05] ee4.DEBUG: Using default global config: /home/rtcamp/.ee4/config.yml  
-[07-06-2018 13:53:05] ee4.DEBUG: No project config found  
-[07-06-2018 13:53:05] ee4.DEBUG: argv: ./easyengine.phar cli update  
-[07-06-2018 13:53:05] ee4.DEBUG: Running command: cli update  
